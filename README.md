@@ -24,7 +24,7 @@ To set up the Movie Recommendation System locally, follow these steps:
 
 bash
 Copy code
-git clone https://github.com/kingnw/movies.git
+git clone (https://github.com/Abinbaj/Moive-Recommendation-System-Projext.git)
 cd movies
 Create and Activate a Virtual Environment:
 
